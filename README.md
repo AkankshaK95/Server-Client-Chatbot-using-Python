@@ -1,2 +1,3 @@
 # Server-Client-Chatbot-using-Python
-The server client chatbot is program done using Python in which multiple clinet can be conneced to the server at a time but only 2 clients can communicate at a time.The program is done by using Python programming language.
+The server client chatbot is program done using Python in which the connection is set up between a server and a client. Additionally, a client can communicate with the server.
+
